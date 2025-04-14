@@ -1,0 +1,5 @@
+python-telegram-bot
+aiohttp
+httpx==0.27
+yandex-cloud-ml-sdk==0.8
+langchain-core

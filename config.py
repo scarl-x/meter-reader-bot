@@ -1,0 +1,5 @@
+TELEGRAM_BOT_TOKEN = "7699963645:AAHfpEsGEf7YHCnvBqIVFMOb870fN8CNFWg"
+YANDEX_IAM_TOKEN = "y0__xDn4M7kBRjB3RMg5-is6BIxwvsc5aWYD06U9MkD64k7c4k-Xg"
+YANDEX_FOLDER_ID = "b1g1sfipfk2ptk63agqh"
+PHOTO_API_KEY = "k9j8-l7m6-n5o4-p3q2-r1s0-t9u8-v7w6-x5y4"
+API_URL = "https://task1.interview.yavlenie.pro"
